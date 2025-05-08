@@ -1,4 +1,4 @@
-const express = require("express");
+import express from "express";
 const mysql = require("mysql2/promise");
 const fs = require("fs");
 const app = express();
