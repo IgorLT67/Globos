@@ -1,6 +1,6 @@
 import express from "express";
-const mysql = require("mysql2/promise");
-const fs = require("fs");
+import mysql from "mysql2/promise";
+import fs from "fs";
 const app = express();
 app.use(express.json());
 
