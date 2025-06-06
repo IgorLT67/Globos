@@ -30,7 +30,7 @@ My work combines real-world business strategy with data-driven tools to uncover 
 
 ## 🚀 Current Focus
 
-- Real Estate projects, analytics and process optimization  
+- Real Estate analytics and process optimization  
 - Social Care service development projects  
 - Freelancing work on operational and data projects  
 
@@ -62,3 +62,5 @@ Below are some of the analytical models and dashboards I’ve developed — comb
 
 💼 [LinkedIn](https://www.linkedin.com/in/igormakarov-vilnius/)  
 📬 Always open to collaboration, freelance work, or strategic partnerships.
+
+
